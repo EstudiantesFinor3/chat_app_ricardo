@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625032700708",
+    "project_id": "chatapp2-ad4bc",
+    "storage_bucket": "chatapp2-ad4bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625032700708:android:dfcb6d7083ce88440189b1",
+        "android_client_info": {
+          "package_name": "com.example.chat_segundo_intento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625032700708-vnmo9uhb0jkmfhttg4csve933th2v18g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_8HjAdZjUo-zJCOIdwfGTda2qdZ6yL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625032700708-vnmo9uhb0jkmfhttg4csve933th2v18g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
